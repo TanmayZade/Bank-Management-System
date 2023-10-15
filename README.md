@@ -1,2 +1,20 @@
 # Bank-Management-System
-This is a Course Project for Advanced Data Structure Course. In this project we had used advanced data structure AVL TREE. This bank management system manages the bank side operations serving customers of bank.
+Bank Management System with AVL Tree
+Welcome to the Bank Management System with AVL Tree project! This project is a course project for the Advanced Data Structure Course. It's designed to manage bank-side operations, serving the bank's customers efficiently.
+
+Contributors
+Tanmay Zade
+Vrushal Patil
+Vedant Kothari
+Shivani Yanpallewar
+Rahul Yargop
+Features
+Admin Panel: Access to administrative functions.
+Staff Panel: Handle customer accounts and transactions.
+ATM Panel: Perform ATM operations.
+Account Operations: Credit, debit, view transactions, create accounts, delete accounts, and edit customer information.
+Getting Started
+To get started with this project, follow the instructions in the documentation.
+
+License
+This project is licensed under the MIT License.
